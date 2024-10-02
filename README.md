@@ -6,7 +6,7 @@ Este proyecto es una aplicación de calculadora de propinas desarrollada con **R
 
 Puedes visualizar una versión en vivo del proyecto en el siguiente enlace:
 
-[Calculadora de Propinas](#)
+[Calculadora de Propinas](https://zingy-fairy-e144f8.netlify.app/)
 
 ## Características
 
